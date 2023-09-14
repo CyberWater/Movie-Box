@@ -1,5 +1,5 @@
 
-# Movie Discovery
+# Movie Box
 
 
 An app that enables you to see latest movies fetch from TMDB database
